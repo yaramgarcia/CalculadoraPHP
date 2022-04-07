@@ -17,7 +17,7 @@ Valor 2: <input type="number" name="txtv2"><br>
 <option>Multiplicação</option>
 <option>Divisão</option>
 </select>
-<br> <input type="submit" value="calcular"
+<br> <input type="submit" value="calcular">
 </form>
 </body>
 </html>
